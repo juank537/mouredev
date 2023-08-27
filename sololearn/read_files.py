@@ -1,0 +1,5 @@
+file = open("sololearn/pull_ups.txt", "r")
+n = int(input())
+results = file.readlines()
+print(results[n])
+file.close()

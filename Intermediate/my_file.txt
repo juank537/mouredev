@@ -1,0 +1,6 @@
+Me llamo Juan Carlos
+Mi apellido es Aliaga
+33 años
+Y mi lenguaje favorito es Python
+Aunque también me gusta JavaScript
+Y Java
